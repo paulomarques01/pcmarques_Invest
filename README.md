@@ -29,4 +29,6 @@ Este é um trabalho desenvolvido no curso da Dio.
 
 Cordialmente!
 Paulo Cesar Fraga Marques
+
+![image](https://github.com/user-attachments/assets/d5627e75-c7d3-4fc5-8fbd-29e3ffeafbae)
 https://www.linkedin.com/in/pcmarquesvbnmavnm/
